@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          fast again...
+          another build needed...
         </a>
       </header>
     </div>
